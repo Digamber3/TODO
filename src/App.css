@@ -15,9 +15,9 @@ h1,h2,h3,h4,h5,h6, p {
   width: 100%;
   padding: 1rem;  
   margin: 1rem auto 3rem;
-  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+  box-shadow: 0 .5rem 1rem rgba(6, 71, 22, 0.15) !important;
   border-radius: 0.25rem;
-  background-color: #f8f9fa !important;
+  background-color: #769dc5 !important;
 }
 
 .auth-status-message {
